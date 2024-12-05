@@ -30,4 +30,4 @@ el ciclo de ozono conisiste en que cuando tengamos na molecula o2 y reciba rayos
   minado a cielo abierto - minerales cerca de la superficie
   minado subterraneo-minerales a mayor profundidad 
   mineria de placer - se extraen sedimientos fluviales
-etiqueta FSC que son naturales y ecologicas
+etiqueta FSC que son naturales y ecologica
